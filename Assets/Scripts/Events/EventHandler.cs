@@ -1,6 +1,6 @@
 ﻿public delegate void MovementDelegate(
-    float inputX,
-    float inputY,
+    float xInput,
+    float yInput,
     bool isWalking,
     bool isRunning,
     bool isIdle,
@@ -35,8 +35,8 @@ public static class EventHandler
 
     // Movement Event Call For Publishers
     public static void CallMovementEvent(
-        float inputX,
-        float inputY,
+        float xInput,
+        float yInput,
         bool isWalking,
         bool isRunning,
         bool isIdle,
@@ -63,7 +63,7 @@ public static class EventHandler
         bool idleUp,
         bool idleDown)
     {
-        MovementEvent?.Invoke(inputX, inputY,
+        MovementEvent?.Invoke(xInput, yInput,
             isWalking, isRunning, isIdle, isCarrying,
             toolEffect,
             isUsingToolLeft,
