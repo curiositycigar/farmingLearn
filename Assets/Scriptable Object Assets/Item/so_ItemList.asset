@@ -285,7 +285,7 @@ MonoBehaviour:
     canBeDropped: 0
     canBeEaten: 0
     canBeCarried: 0
-  - itemCode: 10023
+  - itemCode: 10022
     itemType: 9
     itemDescription: Chair
     itemSprite: {fileID: 21300000, guid: 2a61f48c8f2dfed4da6f2f8e2485ee15, type: 3}
