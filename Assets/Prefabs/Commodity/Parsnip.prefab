@@ -10,37 +10,37 @@ PrefabInstance:
     - target: {fileID: 4078655785802394444, guid: e15bb85d002ca48ac9370c13c7811fe6,
         type: 3}
       propertyPath: m_Name
-      value: Parsnip
+      value: Parsnip (5)
       objectReference: {fileID: 0}
     - target: {fileID: 4078655785802394445, guid: e15bb85d002ca48ac9370c13c7811fe6,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 13.783614
       objectReference: {fileID: 0}
     - target: {fileID: 4078655785802394445, guid: e15bb85d002ca48ac9370c13c7811fe6,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -1.475563
       objectReference: {fileID: 0}
     - target: {fileID: 4078655785802394445, guid: e15bb85d002ca48ac9370c13c7811fe6,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 1.3281358
       objectReference: {fileID: 0}
     - target: {fileID: 4078655785802394445, guid: e15bb85d002ca48ac9370c13c7811fe6,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4078655785802394445, guid: e15bb85d002ca48ac9370c13c7811fe6,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4078655785802394445, guid: e15bb85d002ca48ac9370c13c7811fe6,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4078655785802394445, guid: e15bb85d002ca48ac9370c13c7811fe6,
         type: 3}

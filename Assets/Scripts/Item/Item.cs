@@ -2,6 +2,8 @@
 
 public class Item : MonoBehaviour
 {
+    //[Range(10000, 10100)]
+    [ItemCodeDescription]
     [SerializeField]
     private int _itemCode;
 
